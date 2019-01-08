@@ -1,0 +1,15 @@
+C:\Users\eugen\Dropbox\Projects\MultiplayerTables\MultiplayerTables\bin\Debug\MultiplayerTables.exe.config
+C:\Users\eugen\Dropbox\Projects\MultiplayerTables\MultiplayerTables\bin\Debug\MultiplayerTables.exe
+C:\Users\eugen\Dropbox\Projects\MultiplayerTables\MultiplayerTables\bin\Debug\MultiplayerTables.pdb
+C:\Users\eugen\Dropbox\Projects\MultiplayerTables\MultiplayerTables\obj\Debug\MultiplayerTables.csprojAssemblyReference.cache
+C:\Users\eugen\Dropbox\Projects\MultiplayerTables\MultiplayerTables\obj\Debug\MainWindow.g.cs
+C:\Users\eugen\Dropbox\Projects\MultiplayerTables\MultiplayerTables\obj\Debug\App.g.cs
+C:\Users\eugen\Dropbox\Projects\MultiplayerTables\MultiplayerTables\obj\Debug\MultiplayerTables_MarkupCompile.cache
+C:\Users\eugen\Dropbox\Projects\MultiplayerTables\MultiplayerTables\obj\Debug\MultiplayerTables_MarkupCompile.lref
+C:\Users\eugen\Dropbox\Projects\MultiplayerTables\MultiplayerTables\obj\Debug\MainWindow.baml
+C:\Users\eugen\Dropbox\Projects\MultiplayerTables\MultiplayerTables\obj\Debug\MultiplayerTables.g.resources
+C:\Users\eugen\Dropbox\Projects\MultiplayerTables\MultiplayerTables\obj\Debug\MultiplayerTables.Properties.Resources.resources
+C:\Users\eugen\Dropbox\Projects\MultiplayerTables\MultiplayerTables\obj\Debug\MultiplayerTables.csproj.GenerateResource.cache
+C:\Users\eugen\Dropbox\Projects\MultiplayerTables\MultiplayerTables\obj\Debug\MultiplayerTables.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Dropbox\Projects\MultiplayerTables\MultiplayerTables\obj\Debug\MultiplayerTables.exe
+C:\Users\eugen\Dropbox\Projects\MultiplayerTables\MultiplayerTables\obj\Debug\MultiplayerTables.pdb
